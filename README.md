@@ -72,7 +72,7 @@
   Si deseas correr la aplicación en un entorno local debes tener en cuenta lo siguiente: 
   1. Clona el repositorio utilizando GIT o descargando el archivo ZIP:
 
-      `git clone https://github.com/jc-projects/CodoACodo_TP2_Integrador_Backend.git`
+      `git clone https://github.com/joana-coll/AYRE-Paseos-turisticos.git`
   <p align="right">(<a href="#ir-arriba">Ir arriba</a>)</p>
   
 <!-- FUNCIONALIDAD DE LA APP -->
