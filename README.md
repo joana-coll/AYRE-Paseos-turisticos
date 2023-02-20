@@ -1,6 +1,6 @@
 <!-- TÍTULO Y DESCRIPCIÓN -->
   <a name="ir-arriba"></a>
-  # 💻 Codo a Codo TP2 Integrador Backend
+  # 💻 AYRE Paseos turísticos
 
   Trabajo Integrador #2 del módulo Backend para el curso **Codo a Codo Java Full Stack 2022**
   <div align="center">
@@ -110,15 +110,20 @@
 <!-- DESARROLLADO POR -->
   <a name="desarrollado"></a>
   ## 💁 Desarrollado por...
-  * **Joana Coll** - [jc-projects](https://github.com/jc-projects)
+  * **Joana Coll** - [joana-coll](https://github.com/joana-coll)
   
   <p align="right">(<a href="#ir-arriba">Ir arriba</a>)</p>
   
 <!-- CONTACTO -->
   <a name="contacto"></a>
   ## 📩 Contacto
-  Si deseas contactarte conmigo podes hacerlo mediante: 
-  **[Instagram ](https://instagram.com/einenko) - [Github ](https://github.com/jc-projects)** 
+  Si deseas contactarte conmigo:
+  <a href="https://ar.linkedin.com/in/joana-coll" target="_blank">
+  <img src="https://raw.githubusercontent.com/joana-coll/joana-coll/1ce466f12c925e1e39ab93b44ff985f102c9aed8/icons/linkedin.svg" alt="Github" height="30" />
+  </a>
+  <a href="mailto:colljoana@gmail.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/joana-coll/joana-coll/1ce466f12c925e1e39ab93b44ff985f102c9aed8/icons/envelope-solid.svg" alt="Github" height="30" />
+  </a>
   <p align="right">(<a href="#ir-arriba">Ir arriba</a>)</p>
 
 <!-- AGRADECIMIENTO -->
